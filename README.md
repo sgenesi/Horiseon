@@ -8,6 +8,6 @@ https://github.com/sgenesi/Horiseon
 https://sgenesi.github.io/Horiseon/
 
 
-![top half of page](screenshots/Screen-Shot-Horiseon-1.png "top half of page")
+![top half of page](./assets/images/Screen-Shot-Horiseon-1.png "top half of page")
 
-![bottom half of page](screenshots/Screen-Shot-Horiseon-2.png "bottom half of page")
+![bottom half of page](./assets/images/Screen-Shot-Horiseon-2.png "bottom half of page")
